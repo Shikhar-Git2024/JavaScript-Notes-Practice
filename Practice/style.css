@@ -1,0 +1,38 @@
+/* h1 {
+    color: blueviolet;
+    text-decoration: wavy;
+}
+body {
+    background-color: cornsilk;
+}
+button {
+    background-color: bisque;
+    color: darkolivegreen;
+}
+*/
+
+#box {
+    height: 200px;
+    width: 100px;
+    background-color: firebrick;
+    color: ghostwhite;
+    border: 1px solid black;
+} 
+
+/* .content{
+    color: red;
+}
+
+.newClass{
+    background-color: green;
+} */
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.light{
+    background-color: white;
+    color: black;
+}
